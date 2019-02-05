@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>imovel nao informado - cidade nao informada-cidade nao informada</name>
+	<description><![CDATA[<h4>Proprietario: <br/><font color="green">proprietario nao informado<br/></h4></font>
+<hr>
+<h4>Responsavel Tecnico:<br/> <font color="green">LEANDRO RODRIGUES LEAL<br/>CREA: 210847/TD-TO<br/>Cod.Incra: GEZX<br/>email: </font><font color="blue"><a href="mailto:lrltopografia@gmail.com">lrltopografia@gmail.com</a></font>]]></description>
+	<StyleMap id="estilo_layer_0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#estilo_layer_00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#estilo_layer_01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="estilo_layer_00">
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66ffffff</color>
+			<fill>0</fill>
+			<width>1.5</width>
+		</PolyStyle>
+	</Style>
+	<Style id="estilo_layer_01">
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66ffffff</color>
+			<fill>0</fill>
+			<width>1.5</width>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>_GE_NIL</name>
+		<description><![CDATA[<h4>
+Layer: <br/>
+<font color="green">
+_GE_NIL
+</font>
+<br/>Linhas e Polilinhas Abertas e Fechadas
+</h4>
+<hr>
+<h4>Responsavel Tecnico: <br/><font color="green">LEANDRO RODRIGUES LEAL<br/>CREA: 210847/TD-TO<br/>Cod.Incra: GEZX<br/>email: </font><font color="blue"><a href="mailto:lrltopografia@gmail.com">lrltopografia@gmail.com</a></font>
+<font face=arial narrow><hr><h5><font color="black">Software AutoTOPO® </font><font color="blue"><em>www.autotopo.net</em></font></h5></font>]]></description>
+		<styleUrl>#estilo_layer_0</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-48.27287472537,-12.16903530915,0 -48.27185346562899,-12.17947540645,0 -48.266795094165,-12.184072967364,0 -48.257112005933,-12.187061260474,0 -48.257581601198,-12.187677890595,0 -48.262801960641,-12.18704531772,0 -48.26415392452,-12.186881703931,0 -48.27379493878801,-12.178115545032,0 -48.275758510922,-12.179618600005,0 -48.27655063345301,-12.178796387233,0 -48.27780654848599,-12.179506046315,0 -48.277856513264,-12.179426771764,0 -48.28004973654,-12.174077759023,0 -48.27287472537,-12.16903530915,0 -48.27287472537,-12.16903530915,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
